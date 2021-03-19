@@ -1,0 +1,19 @@
+Sklearn Workflow
+
+
+1) Get the data ready
+
+2) Choose the model/estimator - using https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+3) Fit the model to the data and use it to make a prediction
+
+A model will (attempt to) learn the patterns in a dataset by calling the fit() function on it and passing it the data.
+Once a model has learned patterns in data, you can use them to make a prediction with the predict() function.
+
+4) Evaluate the model - A trained model/estimator can be evaluated by calling the score() function and passing it a collection of data.
+
+5) Experiment to improve (hyperparameter tuning) - It's best practice to test different hyperparameters with a validation set or cross-validation.
+
+6) Save a model for later use - using Python's pickle module
+
+A trained model can be exported and saved so it can be imported and used later
