@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=PPLop4L2eGk&ab_channel=ArtificialIntelligence-AllinOne
+
+and here you'll be introduced with a new programming language which is octave.
+Octave is very clear cut and fun language.
+
+you can use that but recommended python as you'll need it.
+
+Andrew Sir will use octave language for the implementation of the algorithms, but you can use python as well.
+just you need to learn numpy, matplotlib and sklearn for loading dataset only
+
+don't use sklearn built algorithm as a beginner
+it'll be harmful

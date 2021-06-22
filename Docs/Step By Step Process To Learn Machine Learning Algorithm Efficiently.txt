@@ -1,0 +1,24 @@
+1. Understand the math behind algorithms
+2. How these algorithms behave w.r.t. numerical  and categorical variables ?
+    a. Decision Tree uses different ways to split numerical and categorical predictors/variables.
+3. How these algorithms works with Text Data ?
+     a. Stemming and  Lemmatization
+     b. Bag of words
+     c. TF-DIF
+     d. Word2Vec
+4. For which scenario these algorithms are used? 
+     a. Regression - Linear regression
+     b. Classification - Logistic regression , Naive Bayes Classifier
+     c. Both - Decision Tree
+5. Over-fitting and Under-fitting Conditions :-
+     a. Hyper parameter tuning
+     b. Decision Tree Pruning 
+6. Impact of Algorithm w.r.t Imbalanced Datasets and how do you fix that?
+    a. Binary Classification Problem
+    b. Feature Scaling
+          # Up-sampling
+          # Down-sampling
+7. Impact of Outliers, How to treat them?
+8. For which Algorithm, feature Scaling/Normalization is required w.r.t Datasets:-
+    a. DT, Random Forest, XGBoost, Gradient Boosting, ADABoost - Not required
+    b. Linear Regression, Logistic Regression - Required.

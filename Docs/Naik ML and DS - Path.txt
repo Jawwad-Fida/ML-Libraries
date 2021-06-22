@@ -1,0 +1,52 @@
+1) Complete Machine Learning playlist - 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+[Up to video 24] -> [jump to stat playlist]
+
+2) Statistics in Machine Learning - 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+[complete playlist]
+
+3) Feature Engineering (Outlines of a ds project) - [complete playlist]
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
+
+4) Go back to machine learning playlist and complete till the end
+
+5) Natural Language Processing (NLP)
+https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+
+5) Live Stream Playlist (Top 10 Videos)
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna
+
+6) Machine Learning Pipelines
+https://www.youtube.com/playlist?list=PLZoTAELRMXVMcRQwR5_J8k9S7cffVFq_U
+
+
+--------------------------------------------------------------------------------
+
+7) Complete Deep Learning (with Keras and Tensorflow) - 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi
+
+Pytorch
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq_9MuiUdn2YnlFqmMK
+
+8) Deployment of ML Models (Azure,Google Cloud,EC2.Heroku)
+https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1
+
+9) Docker Playlist
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNKtpy0U_Mx9N26w8n0hIbs
+
+
+
+
+-----------------------------------------------------------------
+
+10) MongoDb with Python - 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
+
+11) Machine Learning Interview questions - 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
+
+12) Tableau
+
+
+13) PowerBI
