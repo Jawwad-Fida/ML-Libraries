@@ -1,2 +1,2 @@
 # Jupyter-Notebooks
-All my codes done in jupyter are here
+Numpy, Pandas, Matplotlib, Sklearn codes done by me 
